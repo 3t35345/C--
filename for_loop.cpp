@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+#include <cctype>
 using namespace std;
 
 int main(){
@@ -27,17 +29,27 @@ int main(){
     //     cout << a << endl;
     // }
 
-    int a = 0, b = 0;
-    while(a <= 10){
-        while(b <= 10){
-            if (b == 5){
-                break;
-            }
-            cout << a*b << endl;
-            b++;
-        }
-        a++;
+    // int a = 0, b = 0;
+    // while(a <= 10){
+    //     while(b <= 10){
+    //         if (b == 5){
+    //             break;
+    //         }
+    //         cout << a*b << endl;
+    //         b++;
+    //     }
+    //     a++;
+    // }
+    // cout << a << endl;
+
+    // int array[10] = {1,2,3,4,5,6,7,8,9,10};
+    char text[] = "hello world";
+    
+    int i = 0;
+    while(text[i]){
+        text[i] = toupper(text[i]);
+        cout << text[i] << " ";
+        i++;
     }
-    cout << a << endl;
     return 0;
 }
