@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lick8/Documents/C++/opencv/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\opencv.dir\\import_image.cpp.obj -c C:\\Users\\lick8\\Documents\\C++\\opencv\\import_image.cpp",
+  "file": "C:/Users/lick8/Documents/C++/opencv/import_image.cpp",
+  "output": "CMakeFiles/opencv.dir/import_image.cpp.obj"
+}
+]

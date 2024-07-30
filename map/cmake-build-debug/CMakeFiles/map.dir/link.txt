@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/map.dir/main.cpp.o CMakeFiles/map.dir/FrequencyCounting.cpp.o CMakeFiles/map.dir/TheTwoSum.cpp.o -o map 

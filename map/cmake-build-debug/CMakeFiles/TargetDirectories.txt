@@ -1,0 +1,3 @@
+/mnt/c/Users/Andy Li/OneDrive - HKUST Connect/Documents/C++/map/cmake-build-debug/CMakeFiles/map.dir
+/mnt/c/Users/Andy Li/OneDrive - HKUST Connect/Documents/C++/map/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Andy Li/OneDrive - HKUST Connect/Documents/C++/map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
