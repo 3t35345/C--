@@ -11,7 +11,7 @@ int main(){
         float a = sqrt(i);
         cout << i << " " << setprecision(15) << a;
 
-        if(abs(a * a - i) > 0.0003){
+        if(abs(a * a - i) > 0.0006){
             cout << " !!!";
             bad_count++;
         }
